@@ -10,8 +10,8 @@ title: Sample Jekyll Page
 email: Jessie.L.Anderson.18@dartmouth.edu
 description: > # this means to ignore newlines until "baseurl:"
   N/A
-baseurl: "/jessies-jekyll" # the subpath of your site, e.g. /blog
-url: "http://jessie-anderson/github.io" # the base hostname & protocol for your site
+baseurl: "/jessies-jekyll/" # the subpath of your site, e.g. /blog
+url: "http://jessie-anderson/github.io/cs52-workshop-1" # the base hostname & protocol for your site
 twitter_username: N/A
 github_username:  jessie-anderson
 
