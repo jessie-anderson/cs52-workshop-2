@@ -17,3 +17,4 @@ github_username:  jessie-anderson
 
 # Build settings
 markdown: kramdown
+include: [`_pages`]
